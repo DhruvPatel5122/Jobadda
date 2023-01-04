@@ -13,7 +13,6 @@
                 <td align="right" style="width: 400px">
                     &nbsp;</td>
                 <td>
-                    <%--yo--%>
                     &nbsp;</td>
             </tr>
             <tr>
